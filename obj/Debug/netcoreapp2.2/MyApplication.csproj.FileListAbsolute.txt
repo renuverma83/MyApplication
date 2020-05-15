@@ -1,0 +1,4 @@
+C:\Users\RenuVerma\MyApplication\obj\Debug\netcoreapp2.2\MyApplication.csprojAssemblyReference.cache
+C:\Users\RenuVerma\MyApplication\obj\Debug\netcoreapp2.2\MyApplication.csproj.CoreCompileInputs.cache
+C:\Users\RenuVerma\MyApplication\obj\Debug\netcoreapp2.2\MyApplication.AssemblyInfoInputs.cache
+C:\Users\RenuVerma\MyApplication\obj\Debug\netcoreapp2.2\MyApplication.AssemblyInfo.cs
