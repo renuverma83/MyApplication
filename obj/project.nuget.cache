@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1SIkjOPNpcH1+Up88AXyCtbc/tIAeI4mdoZgChXgEkOwto126wKFO21UmazHz4RyF+cmyMsgwAmN3rwKGIQQ3A==",
+  "dgSpecHash": "mckJi7huMIODgXzp20zQNXB3jHLLDsUg+ioZw36zZX6kka1CF9ABlzndDuufjJo3yva5+QmfTmSOaQ1FmCwmCA==",
   "success": true,
-  "projectFilePath": "c:\\Users\\RenuVerma\\MyApplication\\MyApplication.csproj",
+  "projectFilePath": "C:\\Users\\RenuVerma\\MyApplication\\MyApplication.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\RenuVerma\\.nuget\\packages\\microsoft.netcore.app\\2.2.0\\microsoft.netcore.app.2.2.0.nupkg.sha512",
     "C:\\Users\\RenuVerma\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.2.0\\microsoft.netcore.dotnetapphost.2.2.0.nupkg.sha512",
